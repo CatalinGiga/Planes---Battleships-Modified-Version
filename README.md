@@ -6,6 +6,7 @@
 
 ##
 
+![planes](https://github.com/CatalinGiga/Planes---Battleships-Modified-Version/assets/146859638/22697a8f-a4c2-4ffd-b142-13414ec0aef1)
 
 ## Demo
 
